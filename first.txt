@@ -1,2 +1,3 @@
 first deleted
 second deleted
+third added
